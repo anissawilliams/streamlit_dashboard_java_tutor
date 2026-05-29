@@ -1,0 +1,114 @@
+{
+  "by_condition_role": [
+    {
+      "condition": "character_scaffolded",
+      "role": "assistant",
+      "mean": 438.1,
+      "median": 351.0,
+      "std": 366.4,
+      "p25": 206.5,
+      "p75": 591.0,
+      "n": 615
+    },
+    {
+      "condition": "character_scaffolded",
+      "role": "user",
+      "mean": 42.9,
+      "median": 17.0,
+      "std": 61.5,
+      "p25": 3.0,
+      "p75": 56.2,
+      "n": 568
+    },
+    {
+      "condition": "direct_chat",
+      "role": "assistant",
+      "mean": 1704.6,
+      "median": 2067.0,
+      "std": 824.2,
+      "p25": 1324.0,
+      "p75": 2275.0,
+      "n": 655
+    },
+    {
+      "condition": "direct_chat",
+      "role": "user",
+      "mean": 33.8,
+      "median": 26.5,
+      "std": 31.5,
+      "p25": 15.0,
+      "p75": 42.0,
+      "n": 638
+    },
+    {
+      "condition": "non_character_scaffolded",
+      "role": "assistant",
+      "mean": 425.0,
+      "median": 354.0,
+      "std": 366.8,
+      "p25": 204.0,
+      "p75": 572.5,
+      "n": 623
+    },
+    {
+      "condition": "non_character_scaffolded",
+      "role": "user",
+      "mean": 44.9,
+      "median": 20.0,
+      "std": 63.1,
+      "p25": 3.0,
+      "p75": 62.0,
+      "n": 576
+    }
+  ],
+  "by_perf_tier_role": [
+    {
+      "perf_tier": "Low",
+      "role": "assistant",
+      "mean": 1443.2,
+      "median": 1929.0,
+      "std": 926.5,
+      "n": 483
+    },
+    {
+      "perf_tier": "Low",
+      "role": "user",
+      "mean": 31.5,
+      "median": 24.0,
+      "std": 33.7,
+      "n": 475
+    },
+    {
+      "perf_tier": "Medium",
+      "role": "assistant",
+      "mean": 727.0,
+      "median": 431.0,
+      "std": 721.2,
+      "n": 352
+    },
+    {
+      "perf_tier": "Medium",
+      "role": "user",
+      "mean": 37.8,
+      "median": 21.0,
+      "std": 48.5,
+      "n": 328
+    },
+    {
+      "perf_tier": "High",
+      "role": "assistant",
+      "mean": 659.5,
+      "median": 386.0,
+      "std": 684.8,
+      "n": 1058
+    },
+    {
+      "perf_tier": "High",
+      "role": "user",
+      "mean": 45.4,
+      "median": 26.0,
+      "std": 61.9,
+      "n": 979
+    }
+  ]
+}

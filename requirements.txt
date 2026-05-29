@@ -1,0 +1,4 @@
+scipy>=1.9.0
+statsmodels
+sklearn
+plotly

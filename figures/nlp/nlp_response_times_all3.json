@@ -1,0 +1,65 @@
+{
+  "tutor_latency_by_condition": [
+    {
+      "condition": "character_scaffolded",
+      "mean": 2.42,
+      "median": 2.09,
+      "std": 1.12,
+      "p25": 1.6,
+      "p75": 3.01,
+      "n": 454
+    },
+    {
+      "condition": "direct_chat",
+      "mean": 8.33,
+      "median": 8.93,
+      "std": 3.42,
+      "p25": 6.92,
+      "p75": 10.52,
+      "n": 605
+    },
+    {
+      "condition": "non_character_scaffolded",
+      "mean": 2.32,
+      "median": 2.12,
+      "std": 1.0,
+      "p25": 1.53,
+      "p75": 2.9,
+      "n": 450
+    }
+  ],
+  "student_think_by_condition": [
+    {
+      "condition": "character_scaffolded",
+      "mean": 31.79,
+      "median": 23.07,
+      "std": 27.24,
+      "p25": 10.8,
+      "p75": 43.93,
+      "n": 453
+    },
+    {
+      "condition": "direct_chat",
+      "mean": 44.89,
+      "median": 27.34,
+      "std": 51.87,
+      "p25": 11.97,
+      "p75": 62.07,
+      "n": 569
+    },
+    {
+      "condition": "non_character_scaffolded",
+      "mean": 31.05,
+      "median": 23.41,
+      "std": 27.22,
+      "p25": 12.22,
+      "p75": 42.93,
+      "n": 450
+    }
+  ],
+  "think_time_quiz_correlation": {
+    "pearson_r": -0.132,
+    "pearson_p": 0.1219,
+    "n": 138
+  }
+}
